@@ -6,7 +6,7 @@ This is a simple rich text notes application built with Next.js 14 and [Tiptap](
 
 ## Live Preview
 
-Check out the live preview [here](https://example.com).
+Check out the live preview [here](https://rich-text-editor-ten-topaz.vercel.app/).
 
 ## Features
 
