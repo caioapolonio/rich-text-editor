@@ -26,7 +26,7 @@ const Notes = () => {
           {data.map((item, index) => (
             <div
               key={index}
-              className="animate-bounce rounded-md shadow-md"
+              className="rounded-md shadow-md"
               style={{ backgroundColor: colors[index % colors.length] }}
             >
               <div className="flex flex-row items-center justify-between border-b-2 border-neutral-900 p-3 font-bold text-neutral-900">
