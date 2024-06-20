@@ -8,6 +8,9 @@ This is a simple rich text notes application built with Next.js 14 and [Tiptap](
 
 Check out the live preview [here](https://rich-text-editor-ten-topaz.vercel.app/).
 
+![image](https://github.com/caioapolonio/rich-text-editor/assets/101464470/4e9b0df3-74c9-457f-aeff-d2274f6d4416)
+
+
 ## Features
 
 - Rich text editor with formatting options (bold, italic, underline, etc.).
